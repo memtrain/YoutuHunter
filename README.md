@@ -1,4 +1,6 @@
-# YoutuHunter ![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033) ![GitHub Release](https://img.shields.io/github/v/release/memtrain/YoutuHunter) 
+# YoutuHunter ![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033) ![GitHub Release](https://img.shields.io/github/v/release/memtrain/YoutuHunter) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/memtrain/YoutuHunter/total)
+
+
 
 yt-dlp ver:
 ![GitHub Release](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000)
