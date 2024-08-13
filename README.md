@@ -1,4 +1,10 @@
-# YoutuHunter ![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033)
+# YoutuHunter ![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033) ![GitHub Release](https://img.shields.io/github/v/release/memtrain/YoutuHunter) 
+
+yt-dlp ver:
+![GitHub Release](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000)
+ffmpeg ver:
+![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)
+
 超強youtube下載音樂、影片神器
 ## 注意:只提供個人或非營利使用
 ### 皆有版權問題，請勿營利使用，若出現法律責任歸屬，將與我方無關
