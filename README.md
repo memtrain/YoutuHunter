@@ -2,7 +2,7 @@
 
 
 yt-dlp ver:
-[![PyPi]("https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")](https://github.com/yt--dlp/yt--dlp/releases "PyPi")
+[![PyPi]("https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")]
 
 ffmpeg ver:
 [![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)](https://github.com/GyanD/codexffmpeg/releases "PyPi")
