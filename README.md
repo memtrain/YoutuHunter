@@ -3,7 +3,7 @@
 
 [![PyPi](https://img.shields.io/badge/-PyPi-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](https://pypi.org/project/yt-dlp "PyPi")
 yt-dlp ver:
-[![PyPi]("https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")](https://pypi.org/project/yt-dlp "PyPi")
+[![PyPi]("https://img.shields.io/github/v/release/yt-dlp/yt-dlp?&style=for-the-badge&color=990000")](https://pypi.org/project/yt-dlp "PyPi")
 ffmpeg ver:
 ![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)
 
