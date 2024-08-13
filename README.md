@@ -1,4 +1,4 @@
-# YoutuHunter [![GitHub license](https://img.shields.io/badge/any_text-you_like-blue)]
+# YoutuHunter ![GitHub license](https://img.shields.io/badge/any_text-you_like-blue)
 超強youtube下載音樂、影片神器
 ## 注意:只提供個人或非營利使用
 ### 皆有版權問題，請勿營利使用，若出現法律責任歸屬，將與我方無關
