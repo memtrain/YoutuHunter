@@ -3,7 +3,7 @@
 
 
 yt-dlp ver:
-![GitHub Release](https://github.com/yt-dlp/yt-dlp/releases/tag/2024.08.06 "https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")
+![GitHub Release](https://github.com/yt-dlp/yt-dlp/releases/tag/2024.08.06"https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")
 ffmpeg ver:
 ![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)
 
