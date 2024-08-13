@@ -5,7 +5,7 @@
 yt-dlp ver:
 [![PyPi]("https://img.shields.io/github/v/release/yt-dlp/yt-dlp?style=for-the-badge&color=990000")](https://github.com/yt-dlp/yt-dlp/releases/tag/2024.08.06 "PyPi")
 ffmpeg ver:
-[![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)](https://github.com/yt-dlp/yt-dlp/releases/tag/2024.08.06 "PyPi")
+[![GitHub Release](https://img.shields.io/github/v/release/GyanD/codexffmpeg?style=for-the-badge&color=009900)](https://github.com/GyanD/codexffmpeg/releases/tag/7.0.2 "PyPi")
 
 超強youtube下載音樂、影片神器
 ## 注意:只提供個人或非營利使用
